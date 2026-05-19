@@ -1,0 +1,11 @@
+[package]
+name = "rsmem"
+version = "0.1.0"
+edition = "2024"
+description = "smem2 tool rust analog"
+homepage = "https://github.com/DarkDemiurg/rsmem"
+repository = "https://github.com/DarkDemiurg/rsmem"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
